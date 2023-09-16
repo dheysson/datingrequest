@@ -17,11 +17,11 @@ function App() {
 
     // console.log(parent.childElementCount)
 
-    if(parent.childElementCount > 150) {
+    if(parent.childElementCount > 250) {
       parent.childNodes[2].remove()
     }
   }
-  setInterval(Log, 100)
+  setInterval(Log, 75)
 
   useEffect(() => {
     document.querySelectorAll('button')[0].addEventListener('click', () => {
