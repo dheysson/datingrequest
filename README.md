@@ -1,1 +1,1 @@
-Desenvolvido com NextJS & TailwindCSS
+Desenvolvido com ReactJS & TailwindCSS
